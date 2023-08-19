@@ -9,8 +9,8 @@
 <br>
 <br>
 
-<h2>Snake</h2>
-<h3>Clone of old basic snake game made with c</h3>
+<h3>Snake
+<br>Clone of old basic snake game made with C</h3>
 
 <hr>
 <h2>Installation</h2>
